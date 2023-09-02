@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/Ahmedabdelkareem999/Ahmed/main/Nginx"],
+  "commandToExecute": "./install_web.sh"
+}
